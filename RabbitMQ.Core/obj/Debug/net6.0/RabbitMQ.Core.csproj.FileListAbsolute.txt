@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\RabbitMQEmailExample\RabbitMQ.Core\bin\Debug\net6.0\RabbitMQ.Core.deps.json
+C:\Users\user\Desktop\RabbitMQEmailExample\RabbitMQ.Core\bin\Debug\net6.0\RabbitMQ.Core.dll
+C:\Users\user\Desktop\RabbitMQEmailExample\RabbitMQ.Core\bin\Debug\net6.0\RabbitMQ.Core.pdb
+C:\Users\user\Desktop\RabbitMQEmailExample\RabbitMQ.Core\obj\Debug\net6.0\RabbitMQ.Core.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\RabbitMQEmailExample\RabbitMQ.Core\obj\Debug\net6.0\RabbitMQ.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\RabbitMQEmailExample\RabbitMQ.Core\obj\Debug\net6.0\RabbitMQ.Core.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\RabbitMQEmailExample\RabbitMQ.Core\obj\Debug\net6.0\RabbitMQ.Core.AssemblyInfo.cs
+C:\Users\user\Desktop\RabbitMQEmailExample\RabbitMQ.Core\obj\Debug\net6.0\RabbitMQ.Core.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\RabbitMQEmailExample\RabbitMQ.Core\obj\Debug\net6.0\RabbitMQ.Core.dll
+C:\Users\user\Desktop\RabbitMQEmailExample\RabbitMQ.Core\obj\Debug\net6.0\refint\RabbitMQ.Core.dll
+C:\Users\user\Desktop\RabbitMQEmailExample\RabbitMQ.Core\obj\Debug\net6.0\RabbitMQ.Core.pdb
+C:\Users\user\Desktop\RabbitMQEmailExample\RabbitMQ.Core\obj\Debug\net6.0\ref\RabbitMQ.Core.dll

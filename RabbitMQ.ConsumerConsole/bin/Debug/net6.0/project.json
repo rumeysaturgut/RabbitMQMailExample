@@ -1,0 +1,12 @@
+"RabbitMQConfiguration": {
+    "HostName": "localhost",
+    "Password": "guest",
+    "UserName": "guest"
+  },
+  "SmtpConfig": {
+    "Host": "smtp.gmail.com",
+    "Port": "587",
+    "User": "sampiyonbesiktas@gmail.com",
+    "Password": "efendibesiktas",
+    "UseSSL": "true"
+  }
